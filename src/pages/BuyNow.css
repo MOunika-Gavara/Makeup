@@ -1,0 +1,17 @@
+.text {
+    text-align: justify;
+    -moz-text-align-last: justify;
+    text-align-last: justify;
+    margin-left: 300px;
+}
+
+.word {
+    width: 700px;
+    padding-top: 30px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+.brand{
+    text-transform: capitalize;
+}

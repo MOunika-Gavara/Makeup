@@ -1,0 +1,32 @@
+.make {
+    background-color: #ada397;
+}
+
+.centered {
+    position: fixed;
+    top: 30%;
+    left: 30%;
+}
+
+.bottom1 {
+    position: absolute;
+    bottom: 30px;
+    right: 16px;
+    width: 500px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.icon {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.footer {
+    position: fixed;
+}

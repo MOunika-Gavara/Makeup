@@ -32,7 +32,25 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  margin-left: 150px;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 50;
+}
+
+.link3 {
+  margin-left: 150px;
+  color: white;
 }
